@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class Main{
 
@@ -24,7 +24,7 @@ public class Main{
 
         Float myClassFloat = 429843.656f;
         Double myClassDouble = 3849.56;
-        
+
 
         // widening casting
         long x = myInt;
