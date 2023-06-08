@@ -1,5 +1,4 @@
 
-
 public class Main{
 
     // psvm
@@ -7,6 +6,7 @@ public class Main{
 
         // sout
         System.out.println("Hello");
+        System.out.print("");
 
         // Numbers
         byte myByte = 127;  // -128 .. 127
